@@ -1,0 +1,2 @@
+[env]
+FLINK_PROPERTIES = "jobmanager.rpc.address: jobmanager"
